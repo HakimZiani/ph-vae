@@ -5,7 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
-
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+._.DS_Store
 # Distribution / packaging
 .Python
 build/
@@ -25,7 +30,17 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
+# Mac OS
+.AppleDouble
+# Temporary/backup files
+*.tmp
+*.bak
+*.backup
+~*
+# IDE settings (if you don't want to share personal settings)
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
 # PyInstaller
 #   Usually these files are written by a python script from a template
 #   before PyInstaller builds the exe, so as to inject date/other infos into it.
