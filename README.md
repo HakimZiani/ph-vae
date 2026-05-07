@@ -1,5 +1,9 @@
 # PH-VAE - ICML 2026
 
+**Paper**: 
+- [ICML 2026 Version]()
+- [arXiv version](https://arxiv.org/abs/2603.01800)
+
 **Phase-Type Variational Autoencoder for Heavy-Tailed Data**  
 A PyTorch implementation of a multivariate Phase-Type Variational Autoencoder (PH-VAE) for modeling positive-valued continuous and heavy-tailed data.
 
