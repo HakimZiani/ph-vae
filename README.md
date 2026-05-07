@@ -1,7 +1,6 @@
 # PH-VAE - ICML 2026
 
 **Paper**: 
-- [ICML 2026 Version]()
 - [arXiv version](https://arxiv.org/abs/2603.01800)
 
 **Phase-Type Variational Autoencoder for Heavy-Tailed Data**  
