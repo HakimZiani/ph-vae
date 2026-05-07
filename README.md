@@ -131,7 +131,7 @@ train_phvae(
 
 ## Checkpoints
 
-A pretrained checkpoint is available in:
+A pretrained checkpoint with Weibull data is available in:
 
 ```text
 models/saved/phvae_weibull.pt
